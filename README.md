@@ -1,11 +1,11 @@
-#Challenge#1 
-##Tetris
+# Challenge#1 
+## Tetris
 
 
 Johnny is playing a weird kind of TETRIS. He has already worked out the pseudo-random number generator used in the game, so that he knows exactly what pieces will appear on the field – one by one. He has also discovered the exact scoring rules.
 
 
-##Description of the weird TETRIS
+## Description of the weird TETRIS
 
 
 The field has 5 columns; there is a floor at the bottom, but its height is unlimited.
@@ -72,7 +72,7 @@ Picture img 7 shows the state after the disappearance of the squares from the ma
 It is also the last stage because there are no single-colour lines on the field.
 
 
-##Scoring
+## Scoring
 
 
 For each completed line, the player gets some points. Obviously, the longer the line, the more points the player gets. Moreover, in the weird TETRIS (as in any other), the completion of several lines at the same time guarantees some extra points. What is more, the field clearing in several stages is rewarded.
@@ -129,7 +129,7 @@ Yet another example:
 Total score: 9 + 18 + 27 + 576 + 180 = 810.
 
 
-##Task:
+## Task:
 
 
 
@@ -167,7 +167,7 @@ Constraints:
 maximum number of getMaxScore function calls: 5.
 
 
-##Example:
+## Example:
 
 ![Alt text](1603193215_pic4.png?raw=true)
 
