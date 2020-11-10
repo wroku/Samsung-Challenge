@@ -22,7 +22,7 @@ The player can modify (change) a given piece. It can be done in two ways:
 
 ⦁ by rotating the piece.
 
-![Alt text](1603190969_pic1.png?raw=true)
+![Alt text](pics/1603190969_pic1.png?raw=true)
 
 Picture img 1 shows an original position of an exemplary piece consisting of squares A, B and C, placed in column 1. If the player does not intervene, the piece will drop onto the bottom (img 2).
 
@@ -50,7 +50,7 @@ Everything is repeated until there is no single-colour line on the field.
 The example below shows the next stages of the field after a block drops.
 
 
-![Alt text](1603190998_pic2.png?raw=true)
+![Alt text](pics/1603190998_pic2.png?raw=true)
 
 
 In img 1, we can see a block dropping.
@@ -87,7 +87,7 @@ The total number of points for a given piece is the sum of points for each stage
 
 The score for the entire game is the total of points obtained for each piece.
 
-![Alt text](1603191181_pic3.png?raw=true)
+![Alt text](pics/1603191181_pic3.png?raw=true)
 
 In the example above, the scoring is as follows:
 
@@ -169,7 +169,7 @@ maximum number of getMaxScore function calls: 5.
 
 ## Example:
 
-![Alt text](1603193215_pic4.png?raw=true)
+![Alt text](pics/1603193215_pic4.png?raw=true)
 
 
 Let’s consider the following function call (img 1):

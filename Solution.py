@@ -81,7 +81,6 @@ class Solution:
                                     break
                                 totalScore += etapScore * e
                                 e += 1
-
                         scores.add(totalScore)
 
         elif changeCount == 2:
@@ -108,6 +107,7 @@ class Solution:
                                                 break
                                             totalScore += etapScore * e
                                             e += 1
-                                    scores.add(totalScore)
 
+                                    scores.add(totalScore)
+        print(scores)
         return max(scores)
